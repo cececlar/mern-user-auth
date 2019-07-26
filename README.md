@@ -4,9 +4,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
-# About
-I couldn't find a simple MERN passport tutorial, so I made one!
-
 ## Built With
 
 Mongo, Express, ReactJS, Node.js, Javascript. 
@@ -40,7 +37,7 @@ npm run dev
 
 # Instructions
 
-Complete instructions at https://medium.com/@brendt_bly/mern-user-auth-app-tutorial-4aec2105e367
+Complete tutorial instructions at https://medium.com/@brendt_bly/mern-user-auth-app-tutorial-4aec2105e367
 
 ### Completed Features
 
@@ -52,7 +49,7 @@ Complete instructions at https://medium.com/@brendt_bly/mern-user-auth-app-tutor
 ### Next Steps
 - [ ] Add redux
 
-## Author
+## Tutorial Author
 
 Brendt Bly
 
