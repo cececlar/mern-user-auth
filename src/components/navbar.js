@@ -8,7 +8,6 @@ import axios from 'axios'
 class Navbar extends Component {
     constructor() {
         super()
-        this.logout = this.logout.bind(this)
     }
 
     logout(event) {
@@ -31,7 +30,7 @@ class Navbar extends Component {
         const loggedIn = this.props.loggedIn;
         console.log('navbar render, props: ')
         console.log(this.props);
-        
+
         return (
             <div>
 

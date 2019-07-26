@@ -33,14 +33,14 @@ git checkout step-1
 Run these commands in the terminal:
 
 ```
-cd simple-mern-passport
+cd mern-user-auth
 npm install
 npm run dev
 ```
 
 # Instructions
 
-Complete instructions at https://medium.com/@brendt_bly/simple-mern-passport-app-tutorial-4aec2105e367
+Complete instructions at https://medium.com/@brendt_bly/mern-user-auth-app-tutorial-4aec2105e367
 
 ### Completed Features
 
